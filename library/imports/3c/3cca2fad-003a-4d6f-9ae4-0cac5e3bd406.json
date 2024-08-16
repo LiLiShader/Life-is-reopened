@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "youli",
+    "texture": "72949457-b077-4200-b388-6d274494b6fe",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      119,
+      34
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      119,
+      34
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

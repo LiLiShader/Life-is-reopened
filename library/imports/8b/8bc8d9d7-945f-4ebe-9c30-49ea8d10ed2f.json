@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Title_30Draws",
+    "texture": "a5e832f8-195a-4676-8b07-1d03e5748263",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      190,
+      44
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      190,
+      44
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

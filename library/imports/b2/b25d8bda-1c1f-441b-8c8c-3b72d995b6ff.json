@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "BT_Game_Box3",
+    "texture": "db684194-7f89-4a7b-8373-ae5eb3ce8167",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      24,
+      24
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      24,
+      24
+    ],
+    "capInsets": [
+      11,
+      11,
+      11,
+      11
+    ]
+  }
+}

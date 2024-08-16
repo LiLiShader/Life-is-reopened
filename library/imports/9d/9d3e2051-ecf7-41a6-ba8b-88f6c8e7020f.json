@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Cube_Orange_ff8e49",
+    "texture": "e6f06651-59f9-42aa-a83f-4b7b9e340392",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      17,
+      17
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      17,
+      17
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

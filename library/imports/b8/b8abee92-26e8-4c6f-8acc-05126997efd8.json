@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Btn_Ten_Consecutive",
+    "texture": "459e1cbb-d494-4c37-81bd-4216b15b8913",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      372,
+      93
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      372,
+      93
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

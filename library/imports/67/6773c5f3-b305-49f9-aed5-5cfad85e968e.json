@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Title_Hot_Game",
+    "texture": "09428289-8a9f-4279-bd9b-80a6763550bd",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      152,
+      55
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      152,
+      55
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

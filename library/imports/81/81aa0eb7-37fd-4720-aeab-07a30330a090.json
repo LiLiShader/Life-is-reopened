@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "UI_Loading_Slider1",
+    "texture": "810a899f-0973-46c0-a8da-745eba2b02ac",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      482,
+      18
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      482,
+      18
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

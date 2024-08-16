@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "解锁皮肤",
+    "texture": "ca82b6b1-3ad5-406f-a88a-55bc89a86191",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      188,
+      43
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      188,
+      43
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

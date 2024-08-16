@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Title_Ach",
+    "texture": "8fa6d862-10eb-4046-b8d1-b6246182997d",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      87,
+      42
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      87,
+      42
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

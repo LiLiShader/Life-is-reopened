@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "title_Unlock_Autoplay",
+    "texture": "3b369cd8-9376-4b0f-8b4a-3c7199815713",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      282,
+      43
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      282,
+      43
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

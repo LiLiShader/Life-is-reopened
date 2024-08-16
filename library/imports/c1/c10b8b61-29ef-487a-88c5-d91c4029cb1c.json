@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Icon_MoreGame_Box",
+    "texture": "b30607f9-3a54-413c-ab3e-e0336060d31f",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      586,
+      658
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      586,
+      658
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

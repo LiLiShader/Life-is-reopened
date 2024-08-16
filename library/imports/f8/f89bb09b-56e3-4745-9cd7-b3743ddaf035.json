@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Icon_Num_Box1",
+    "texture": "1a61be91-e62a-478d-a625-78112522cfe9",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      58,
+      58
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      58,
+      58
+    ],
+    "capInsets": [
+      27,
+      27,
+      27,
+      27
+    ]
+  }
+}

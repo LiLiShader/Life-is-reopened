@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Btn_Reopen_Now",
+    "texture": "431a018f-0897-46bc-9a86-4f961f7d7950",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      329,
+      91
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      329,
+      91
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

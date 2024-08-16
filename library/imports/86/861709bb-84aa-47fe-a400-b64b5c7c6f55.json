@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Btn_Next_Time",
+    "texture": "43f09d11-0408-43cd-955a-343716b60b86",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      120,
+      48
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      120,
+      48
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

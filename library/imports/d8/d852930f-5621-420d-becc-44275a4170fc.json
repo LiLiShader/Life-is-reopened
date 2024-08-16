@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "HUTUI1",
+    "texture": "48a666d0-95e8-42d1-8d20-59da15aa7569",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      156,
+      193
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      156,
+      193
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

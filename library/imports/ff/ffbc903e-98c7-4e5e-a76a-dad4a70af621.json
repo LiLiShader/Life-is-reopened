@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Icon_YGBH_Box1",
+    "texture": "e01fe0a9-62dd-4ca8-9cfc-2b9290cfb2cf",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      578,
+      490
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      578,
+      490
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

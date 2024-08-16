@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Btn_Life_Summary",
+    "texture": "3c20fe2b-d802-44e1-b0e4-cca2d70e8fc3",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      674,
+      81
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      674,
+      81
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Bt_Game_Record1",
+    "texture": "5e8ff33d-e454-40a9-bd62-887bd9376bf9",
+    "atlas": "",
+    "rect": [
+      17,
+      2,
+      64,
+      85
+    ],
+    "offset": [
+      1,
+      0.5
+    ],
+    "originalSize": [
+      96,
+      90
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

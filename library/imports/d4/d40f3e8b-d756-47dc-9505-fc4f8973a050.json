@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Icon_Cai_Box",
+    "texture": "0720dcb1-d9b8-4c7a-8fe6-1da39024c62a",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      648,
+      208
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      648,
+      208
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

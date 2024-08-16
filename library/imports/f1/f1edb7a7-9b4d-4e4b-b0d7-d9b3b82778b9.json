@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Bt_Game_ZD2",
+    "texture": "88565c1d-1458-4aab-be1e-62512f4bd8a5",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      88,
+      88
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      88,
+      88
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

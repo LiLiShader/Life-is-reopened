@@ -1,0 +1,32 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "skin.plist",
+  "_objFlags": 0,
+  "_native": "",
+  "_spriteFrames": {
+    "Box_Unlock": {
+      "__uuid__": "78ec7430-0336-48c7-a6f1-53a5142e76fb"
+    },
+    "Btn_Back": {
+      "__uuid__": "eb9a0a9d-28fc-4004-846d-70530fcf8fd2"
+    },
+    "Btn_Skin": {
+      "__uuid__": "f00e8a9f-10fd-414f-ab6e-4b79163f6ec6"
+    },
+    "Btn_State_Use": {
+      "__uuid__": "d86b52fa-d130-46f2-bd21-56b9bcf19cd9"
+    },
+    "Btn_Use": {
+      "__uuid__": "10a764b1-89c1-45c2-91fa-629625956333"
+    },
+    "Btn_Video_Unlock": {
+      "__uuid__": "1014deae-920b-429f-9fd3-e5d498d4229a"
+    },
+    "Title": {
+      "__uuid__": "dc2e61f8-ae7d-471d-a792-2ce4e179d1e6"
+    },
+    "name_box": {
+      "__uuid__": "e3ebb23f-293e-4ce0-bef5-693a1986c1bc"
+    }
+  }
+}

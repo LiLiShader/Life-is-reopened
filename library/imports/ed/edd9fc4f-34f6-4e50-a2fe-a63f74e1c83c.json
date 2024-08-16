@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Btn_Autoplay_1",
+    "texture": "194d932a-d569-4afc-9098-41cc62e6be90",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      372,
+      93
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      372,
+      93
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

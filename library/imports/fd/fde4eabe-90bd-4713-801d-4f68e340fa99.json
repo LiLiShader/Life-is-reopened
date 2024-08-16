@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Title_Ni_Tian",
+    "texture": "b8591f39-727e-4304-8eb8-68a1d2ebcd42",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      193,
+      45
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      193,
+      45
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

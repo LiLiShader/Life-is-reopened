@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Btn_Attention",
+    "texture": "8b773783-ffbe-4c9a-bb41-cea92949a2c5",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      120,
+      48
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      120,
+      48
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

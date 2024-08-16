@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Legend",
+    "texture": "21fa899e-eafc-4b4e-b774-368834229d3c",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      161,
+      38
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      161,
+      38
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

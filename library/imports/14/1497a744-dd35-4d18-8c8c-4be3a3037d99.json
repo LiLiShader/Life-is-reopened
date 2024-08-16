@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Box_Purple",
+    "texture": "c27bb303-a43e-48f2-bfa5-2170d8a0c44f",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      346,
+      174
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      346,
+      174
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

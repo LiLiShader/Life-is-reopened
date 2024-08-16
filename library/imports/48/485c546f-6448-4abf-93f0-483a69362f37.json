@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Btn_Start_New_Life",
+    "texture": "a2a8a01f-d7e9-4fa2-914a-922c6f27da0e",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      372,
+      93
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      372,
+      93
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

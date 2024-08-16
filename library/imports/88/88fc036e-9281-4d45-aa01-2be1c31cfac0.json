@@ -1,0 +1,159 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "grade",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 0.3,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 2,
+  "curveData": {
+    "paths": {
+      "地狱": {
+        "props": {
+          "active": [
+            {
+              "frame": 0,
+              "value": false
+            },
+            {
+              "frame": 0.03333333333333333,
+              "value": true
+            },
+            {
+              "frame": 0.06666666666666667,
+              "value": false
+            }
+          ]
+        }
+      },
+      "折磨": {
+        "props": {
+          "active": [
+            {
+              "frame": 0,
+              "value": false
+            },
+            {
+              "frame": 0.06666666666666667,
+              "value": true
+            },
+            {
+              "frame": 0.1,
+              "value": false
+            }
+          ]
+        }
+      },
+      "不佳": {
+        "props": {
+          "active": [
+            {
+              "frame": 0,
+              "value": false
+            },
+            {
+              "frame": 0.1,
+              "value": true
+            },
+            {
+              "frame": 0.13333333333333333,
+              "value": false
+            }
+          ]
+        }
+      },
+      "传说": {
+        "props": {
+          "active": [
+            {
+              "frame": 0,
+              "value": false
+            },
+            {
+              "frame": 0.26666666666666666,
+              "value": true
+            },
+            {
+              "frame": 0.3,
+              "value": false
+            }
+          ]
+        }
+      },
+      "逆天": {
+        "props": {
+          "active": [
+            {
+              "frame": 0,
+              "value": false
+            },
+            {
+              "frame": 0.23333333333333334,
+              "value": true
+            },
+            {
+              "frame": 0.26666666666666666,
+              "value": false
+            }
+          ]
+        }
+      },
+      "罕见": {
+        "props": {
+          "active": [
+            {
+              "frame": 0,
+              "value": false
+            },
+            {
+              "frame": 0.2,
+              "value": true
+            },
+            {
+              "frame": 0.23333333333333334,
+              "value": false
+            }
+          ]
+        }
+      },
+      "优秀": {
+        "props": {
+          "active": [
+            {
+              "frame": 0,
+              "value": false
+            },
+            {
+              "frame": 0.16666666666666666,
+              "value": true
+            },
+            {
+              "frame": 0.2,
+              "value": false
+            }
+          ]
+        }
+      },
+      "普通": {
+        "props": {
+          "active": [
+            {
+              "frame": 0,
+              "value": false
+            },
+            {
+              "frame": 0.13333333333333333,
+              "value": true
+            },
+            {
+              "frame": 0.16666666666666666,
+              "value": false
+            }
+          ]
+        }
+      }
+    }
+  },
+  "events": []
+}

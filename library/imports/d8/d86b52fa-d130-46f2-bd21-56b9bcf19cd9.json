@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Btn_State_Use",
+    "texture": "aa755c06-f644-4890-bf6e-da081554eaf6",
+    "atlas": "b76fd68e-eb9e-4a2c-9203-bbb92b364e67",
+    "rect": [
+      106,
+      467,
+      119,
+      40
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      119,
+      40
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

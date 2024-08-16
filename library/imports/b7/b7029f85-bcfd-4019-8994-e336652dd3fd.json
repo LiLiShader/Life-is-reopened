@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Icon_RedPoint",
+    "texture": "d1f3533f-f236-4b52-a85a-d23ca05a573a",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      22,
+      22
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      22,
+      22
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

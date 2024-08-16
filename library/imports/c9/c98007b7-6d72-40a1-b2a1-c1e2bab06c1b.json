@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Hook",
+    "texture": "0f302983-28db-4072-8c4d-f5f4ee794ff8",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      38,
+      36
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      38,
+      36
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

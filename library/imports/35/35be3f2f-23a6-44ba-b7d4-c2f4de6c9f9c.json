@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Btn_ShuoMing",
+    "texture": "7767bfc5-7468-46e8-96f6-fec87f0a3dd6",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      57,
+      57
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      57,
+      57
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "解锁自传",
+    "texture": "d092ced8-f64d-452e-9343-b1690973cf36",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      182,
+      43
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      182,
+      43
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

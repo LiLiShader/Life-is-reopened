@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Btn_EXP",
+    "texture": "0584523a-7a3e-48da-99c7-f0aae4f989ee",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      196,
+      68
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      196,
+      68
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

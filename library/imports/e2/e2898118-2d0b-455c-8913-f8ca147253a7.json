@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Content_Box",
+    "texture": "982f1394-08c7-45ff-9fc4-73bddd741668",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      780,
+      29
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      780,
+      29
+    ],
+    "capInsets": [
+      26,
+      8,
+      19,
+      6
+    ]
+  }
+}

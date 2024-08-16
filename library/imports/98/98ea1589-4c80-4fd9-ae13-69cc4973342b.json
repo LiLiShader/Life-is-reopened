@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Num_Reopen_Box",
+    "texture": "19c26b0c-11ab-4e52-8a12-3858bf33ec04",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      399,
+      58
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      399,
+      58
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Icon_Font_Box1",
+    "texture": "88fac468-6109-420e-be53-faeca0b8df80",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      20,
+      20
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      20,
+      20
+    ],
+    "capInsets": [
+      9,
+      9,
+      9,
+      9
+    ]
+  }
+}

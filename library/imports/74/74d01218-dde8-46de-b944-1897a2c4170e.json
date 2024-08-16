@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Title_Talent_Selection",
+    "texture": "6097d1ae-015d-4a4d-ab14-37aad1f533f3",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      179,
+      44
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      179,
+      44
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

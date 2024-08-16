@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Font_Title2",
+    "texture": "caf764e6-fc45-43dc-aece-3d73ce332090",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      179,
+      42
+    ],
+    "offset": [
+      -0.5,
+      0
+    ],
+    "originalSize": [
+      180,
+      42
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

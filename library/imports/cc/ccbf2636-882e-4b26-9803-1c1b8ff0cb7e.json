@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "douyin",
+    "texture": "b98978ee-60b7-4383-a6ee-b55f0214ab91",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      100,
+      93
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      100,
+      93
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

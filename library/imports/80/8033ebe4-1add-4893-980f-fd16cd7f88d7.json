@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "BT_Game_Close1",
+    "texture": "47251bc0-0500-4022-83b5-ecb1c75010ba",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      53,
+      57
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      53,
+      57
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

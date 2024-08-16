@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Icon_HT_Box2",
+    "texture": "fcb5dc95-bc8d-4cc9-ac11-145381f32060",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      85,
+      105
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      85,
+      105
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Box_Unselected",
+    "texture": "ef133dc1-fac9-4789-b729-d47f8f44222e",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      594,
+      66
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      594,
+      66
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Title_Life_Summary",
+    "texture": "7470f9d8-32d0-4b34-b769-3aace7a23375",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      181,
+      44
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      181,
+      44
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

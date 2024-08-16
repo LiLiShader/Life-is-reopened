@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Title_Friends_Playing",
+    "texture": "02d2b691-fc8a-44fe-8822-77149a1efeff",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      152,
+      55
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      152,
+      55
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}
